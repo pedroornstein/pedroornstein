@@ -10,7 +10,7 @@ Florida, USA | Open to remote opportunities
 
 | Project | Focus | Deliverables |
 | --- | --- | --- |
-| **[RouteShield GRC Portfolio](https://github.com/pedroornstein/grc-cybersecurity-portfolio)** | Fictional transportation SaaS company: managing cybersecurity and vendor risk | Risk register, vendor assessment, NIST/ISO mapping, gap analysis, action tracker, tabletop plan, audit testing workbook and risk-treatment memo |
+| **[RouteShield GRC Portfolio](https://github.com/pedroornstein/grc-cybersecurity-portfolio)** | Fictional transportation SaaS company: managing cybersecurity and vendor risk | Risk register, vendor assessment, NIST/ISO mapping, gap analysis, action tracker, tabletop plan, audit testing workbook and risk-treatment memo, reproducible synthetic offboarding test and automated QA |
 | **[WordPress Security Audit - Blockzag](https://github.com/pedroornstein/wordpress-site-security-audit)** | Website security assessment documentation | PDF report and project overview |
 
 ### Explore Individual Artifacts
@@ -20,10 +20,12 @@ Florida, USA | Open to remote opportunities
 - [Control mapping](https://github.com/pedroornstein/grc-cybersecurity-portfolio/blob/main/04-control-mapping/control-mapping.md)
 - [Audit evidence and control testing plan](https://github.com/pedroornstein/grc-cybersecurity-portfolio/blob/main/08-audit-evidence/evidence-request-and-testing.md)
 - [Incident-response tabletop design](https://github.com/pedroornstein/grc-cybersecurity-portfolio/blob/main/07-incident-response-tabletop/tabletop-exercise.md)
+- [Synthetic offboarding test: Python, sample data and findings](https://github.com/pedroornstein/grc-cybersecurity-portfolio/tree/main/11-synthetic-offboarding-test)
+- [Portfolio quality-assurance report and automated CI checks](https://github.com/pedroornstein/grc-cybersecurity-portfolio/blob/main/PORTFOLIO-QA.md)
 
 ## Knowledge Areas
 
-**GRC:** Cybersecurity risk assessment | Risk treatment | TPRM | Control mapping | Remediation tracking | Audit evidence planning
+**GRC:** Cybersecurity risk assessment | Risk treatment | TPRM | Control mapping | Remediation tracking | Audit evidence planning | Reproducible synthetic control testing
 
 **Frameworks:** NIST CSF 2.0 | ISO/IEC 27001:2022 | SOC 2 security and availability considerations
 
